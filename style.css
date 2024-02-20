@@ -1,0 +1,372 @@
+body{
+    
+    background-color: #000c40;
+
+}
+h1{
+    
+    background-color: rgb(238, 85, 8);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300px;
+    padding: 40px;
+    text-align: center;
+    font-size: 100px;
+    margin-top: -20px;
+
+}
+
+h2{
+
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    padding: 50px;
+
+}
+
+
+
+nav{
+    
+    top: 78px;
+    margin-top: -70px ;
+    background-color: #131e51;
+    
+}
+nav ul {
+    
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 10px;
+    
+}
+nav ul li a{
+    
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
+    width: 100px;
+}
+
+.Solde_principale{
+    
+    background-color: #202b5d;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+
+}
+
+.Moyenne_principale{
+    
+    background-color: #202b5d;
+    display: block;
+    text-align: center;
+}
+.mp{
+    
+    background-color: #202b5d;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Solde_des_intere{
+    
+    background-color: #202b5d;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.Solde_des_interet{
+    
+    background-color: #202b5d;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+
+}
+
+.si{
+    
+    background-color: #202b5d;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Dépot_ttl{
+    
+    background-color: #202b5d;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.Dépot_totale{
+    
+    background-color: #202b5d;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+}
+
+.dt{
+    
+    background-color: #202b5d;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Gain_ttl{
+    
+    background-color: #202b5d;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.Gain_total{
+    
+    background-color: #202b5d;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+}
+
+.gt{
+    
+    background-color: #202b5d;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Investissement_ttl{
+
+    background-color: #131e51;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.Investissement_total{
+
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+
+}
+
+.it{
+
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Paiement_ttl{
+
+    background-color: #131e51;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.Paiement_total{
+
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+
+}
+
+.pt{
+
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Billet_ttl{
+
+    background-color: #131e51;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.Billet_total{
+
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+
+}
+
+.bt{
+
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Bonus_de_parng{
+
+    background-color: #131e51;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.Bonus_de_parrainage{
+
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+
+}
+
+.bp{
+    
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Lien a{
+    border: solid;
+    border-color: black;
+    display: block;
+    
+    padding: 20px;
+    color: white;
+}
+
+.dbdp{
+
+    background-color: #131e51;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.Dernier_bonus_de_parrainage{
+
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 300px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 20px;
+    color: white;
+
+}
+
+.dbp{
+      
+    background-color: #131e51;
+    font-size: 1.5rem;
+    font-weight: 200px;
+    display: block;
+    text-align: center;
+    margin-top: -33px;
+    padding: 50px;
+    color: white;
+
+}
+
+.Option{
+    
+
+}
